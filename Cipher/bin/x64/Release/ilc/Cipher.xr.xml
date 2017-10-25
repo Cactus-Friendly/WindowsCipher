@@ -54,8 +54,6 @@
       <RootProperty Name="HorizontalAlignment" />
       <RootProperty Name="VerticalAlignment" />
       <RootProperty Name="IsChecked" />
-      <RootProperty Name="Margin" />
-      <RootProperty Name="FocusVisualSecondaryBrush" />
     </RootType>
     <RootType FullName="Windows.UI.Xaml.Controls.TextBlock">
       <RootProperty Name="Margin" />

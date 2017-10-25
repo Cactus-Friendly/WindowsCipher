@@ -15,7 +15,7 @@
         </Grid.ColumnDefinitions>
         <Grid.RowDefinitions>
             <RowDefinition/>
-            <RowDefinition Height="0.5*"/>
+            <RowDefinition Height=".75*"/>
             <RowDefinition/>
         </Grid.RowDefinitions>
         <TextBox x:Name="plainTextBox" TextWrapping="Wrap" ScrollViewer.VerticalScrollBarVisibility="Auto" Grid.ColumnSpan="3" FontSize="20"/>
@@ -26,8 +26,8 @@
         <TextBox x:Name="cipheredTextBox" Grid.Row="2" Grid.ColumnSpan="3" HorizontalContentAlignment="Stretch" VerticalContentAlignment="Stretch" FontSize="20" />
         <Button x:Name="cipherButton" Content="Cipher" HorizontalAlignment="Center" Margin="0" Grid.Row="1" VerticalAlignment="Center" FontSize="24" Click="Button_Click"/>
         <Grid Grid.Column="1" Grid.Row="1" Padding="0,10" >
-            <RadioButton x:Name="encryptRadioButton" Content="Encrypt" HorizontalAlignment="Center" VerticalAlignment="Top" IsChecked="True" Margin="0,5,0,0"/>
-            <RadioButton x:Name="decryptRadioButton" Content="Decrypt" HorizontalAlignment="Center" VerticalAlignment="Bottom" FocusVisualSecondaryBrush="Transparent"/>
+            <RadioButton x:Name="encryptRadioButton" Content="Encrypt" HorizontalAlignment="Center" VerticalAlignment="Top" IsChecked="True"/>
+            <RadioButton x:Name="decryptRadioButton" Content="Decrypt" HorizontalAlignment="Center" VerticalAlignment="Bottom"/>
         </Grid>
 
     </Grid>

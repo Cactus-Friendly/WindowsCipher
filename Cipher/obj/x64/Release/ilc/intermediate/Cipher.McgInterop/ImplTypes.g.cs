@@ -20613,38 +20613,6 @@ namespace Windows.UI.Xaml
 		}
 	}
 
-	// Windows.UI.Xaml.IFrameworkElement4
-	public unsafe static class IFrameworkElement4__Impl
-	{
-		// StubClass for 'Windows.UI.Xaml.IFrameworkElement4'
-		public static partial class Stubs
-		{
-			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
-			public static global::Windows.UI.Xaml.Media.Brush get_FocusVisualSecondaryBrush(global::System.__ComObject __this)
-			{
-				global::Windows.UI.Xaml.Media.Brush __ret = global::__Interop.ForwardComStubs.Stub_10<global::Windows.UI.Xaml.IFrameworkElement4, global::Windows.UI.Xaml.Media.Brush>(
-									__this, 
-									14
-								);
-				global::System.Runtime.InteropServices.DebugAnnotations.PreviousCallContainsUserCode();
-				return __ret;
-			}
-
-			[global::System.Runtime.InteropServices.McgGeneratedMarshallingCode]
-			public static void put_FocusVisualSecondaryBrush(
-						global::System.__ComObject __this, 
-						global::Windows.UI.Xaml.Media.Brush value)
-			{
-				global::__Interop.ForwardComStubs.Stub_5<global::Windows.UI.Xaml.IFrameworkElement4, global::Windows.UI.Xaml.Media.Brush>(
-									__this, 
-									value, 
-									15
-								);
-				global::System.Runtime.InteropServices.DebugAnnotations.PreviousCallContainsUserCode();
-			}
-		}
-	}
-
 	// Windows.UI.Xaml.DependencyPropertyChangedEventHandler
 	public unsafe static class DependencyPropertyChangedEventHandler__Impl
 	{

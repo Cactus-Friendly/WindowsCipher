@@ -497,3 +497,4 @@ C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermed
 C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll
 C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.dll.ILTransformTask.repro
 C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\TransformedSRWR\System.Runtime.WindowsRuntime.pdb
+C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\Cipher.csprojResolveAssemblyReference.cache
