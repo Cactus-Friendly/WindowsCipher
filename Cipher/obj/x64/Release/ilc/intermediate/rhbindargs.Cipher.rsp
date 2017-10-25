@@ -1,0 +1,16 @@
+/osver:6.2
+/appcontainer
+/runtime:mrt100_app
+/eh:clr
+/pdb
+"/nativeLink:C:\Users\nzoel\.nuget\packages\microsoft.net.native.compiler\1.7.1\tools\x64\ilc\lib\Native\vmath.lib"
+/customImports
+/methodBodyFolding
+"C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\MDIL\Cipher.mdilexe"
+"/i:C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\MDIL"
+"/out:C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\Native\Cipher.exe"
+"/pdbAltPath:C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\bin\x64\Release\ilc"
+"/res:C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\obj\x64\Release\ilc\intermediate\Native.res"
+"/i:C:\Users\nzoel\.nuget\packages\microsoft.net.native.sharedlibrary-x64\1.7.0\tools\SharedLibrary\ret\MDIL"
+/shimexe
+"/classlib:SharedLibrary"
