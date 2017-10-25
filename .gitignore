@@ -1,0 +1,6 @@
+*.sln
+*.suo
+*.pfx
+\bin
+\obj
+\.vs

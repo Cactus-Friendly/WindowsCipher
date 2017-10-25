@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup>
+    <Source>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</Source>
+    <SmallTileSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</SmallTileSource>
+    <MediumTileSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</MediumTileSource>
+    <WideTileSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</WideTileSource>
+    <LargeTileSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</LargeTileSource>
+    <AppIconSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</AppIconSource>
+    <SplashScreenSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</SplashScreenSource>
+    <PackageLogoSource>C:\Users\nzoel\OneDrive\Visual Studio\Cipher\Cipher\Assets\cipher.png</PackageLogoSource>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
